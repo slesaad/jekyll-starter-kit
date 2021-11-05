@@ -1,10 +1,8 @@
-title: 'Jekyll Starter Kit'
+title: '@slesaad: Jekyll Starter Kit'
 tagline: 'A simple framework for starting your own Jekyll project'
 
 author:
-  name: 'Paul Le'
-
-google-ID: 'UA-112060364-4'
+  name: 'Slesa Adhikari'
 
 menu:
 # Uncomment to activate the menu looping function in the header.html file under _includes
